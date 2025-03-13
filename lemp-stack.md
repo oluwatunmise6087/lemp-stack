@@ -2,14 +2,9 @@
 
 ## add images here
 
-![lemp1](lemp1.png)
-
-![lemp2](lemp2.png)
-
-![lemp3](lemp3.png)
-
-![lemp4](lemp4.png)
-
-![lemp5](lemp5.png)
-
-![lemp6](lemp6.png)
+![lemp1](lemp1.PNG)
+![lemp2](lemp2.PNG)
+![lemp3](lemp3.PNG)
+![lemp4](lemp4.PNG)
+![lemp5](lemp5.PNG)
+![lemp6](lemp6.PNG)
